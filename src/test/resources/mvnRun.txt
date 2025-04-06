@@ -1,0 +1,15 @@
+1.class run
+mvn clean test -Dtest=StatusCodeTest
+
+2. method Run
+mvn clean test -Dtest=AlertTest#clickAlertButtonTest
+
+3.with select browser
+mvn clean test -Dtest=AlertTest#clickAlertButtonTest -Dbrowser=chrome
+
+4. run groups with @Tag
+mvn clean test -Dgroups=smoke -Dbrowser=chrome
+
+5. parametrized method
+mvn clean test -Dgroups=smoke -Dusername=Alex -Dpassword=12345678
+для этого мы должны параметризовать сам тест!!

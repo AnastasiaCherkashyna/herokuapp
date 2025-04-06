@@ -1,0 +1,16 @@
+com/herokuapp/pages/uploadFile/UploadFilePage.class
+com/herokuapp/pages/statusCode/StatusCodePage.class
+com/herokuapp/pages/alertsFrameWindows/NestedFramesPage.class
+com/herokuapp/pages/dropDown/DropDownPage.class
+com/herokuapp/pages/alertsFrameWindows/MultipleWindowPage.class
+com/herokuapp/pages/alertsFrameWindows/AlertPage.class
+com/herokuapp/pages/alertsFrameWindows/IframePage.class
+com/herokuapp/pages/HomePage.class
+com/herokuapp/config/BasePage.class
+com/herokuapp/utils/MyListener.class
+com/herokuapp/pages/widgits/SliderPage.class
+com/herokuapp/config/ApplicationManager.class
+com/herokuapp/pages/contextMenu/ContextMenuPage.class
+com/herokuapp/pages/interactions/DragAndDropPage.class
+com/herokuapp/config/data/UserData.class
+com/herokuapp/pages/brokenImages/BrokenImagesPage.class

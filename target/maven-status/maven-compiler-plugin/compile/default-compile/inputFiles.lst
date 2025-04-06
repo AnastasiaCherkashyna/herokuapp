@@ -1,0 +1,16 @@
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/config/ApplicationManager.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/config/BasePage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/config/data/UserData.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/HomePage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/alertsFrameWindows/AlertPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/alertsFrameWindows/IframePage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/alertsFrameWindows/MultipleWindowPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/alertsFrameWindows/NestedFramesPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/brokenImages/BrokenImagesPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/contextMenu/ContextMenuPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/dropDown/DropDownPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/interactions/DragAndDropPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/statusCode/StatusCodePage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/uploadFile/UploadFilePage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/pages/widgits/SliderPage.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/main/java/com/herokuapp/utils/MyListener.java

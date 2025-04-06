@@ -1,0 +1,12 @@
+com/herokuapp/tests/alertsFrameWindows/AlertTest.class
+com/herokuapp/tests/brokenImagesTest/BrokenImagesTest.class
+com/herokuapp/tests/interactions/DragAndDropTest.class
+com/herokuapp/tests/contextMenu/ContextMenuTest.class
+com/herokuapp/tests/alertsFrameWindows/NestedIframesTest.class
+com/herokuapp/tests/alertsFrameWindows/IframeTest.class
+com/herokuapp/tests/widgits/SliderTest.class
+com/herokuapp/tests/TestBase.class
+com/herokuapp/tests/statusCode/StatusCodeTest.class
+com/herokuapp/tests/alertsFrameWindows/MultipleWindowTest.class
+com/herokuapp/tests/dropDown/DropDownTest.class
+com/herokuapp/tests/uploadFile/UploadFileTest.class

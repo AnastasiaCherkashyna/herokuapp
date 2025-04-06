@@ -1,0 +1,12 @@
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/TestBase.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/alertsFrameWindows/AlertTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/alertsFrameWindows/IframeTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/alertsFrameWindows/MultipleWindowTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/alertsFrameWindows/NestedIframesTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/brokenImagesTest/BrokenImagesTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/contextMenu/ContextMenuTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/dropDown/DropDownTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/interactions/DragAndDropTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/statusCode/StatusCodeTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/uploadFile/UploadFileTest.java
+/Users/anastasiacherkashyna/QAProjects/Herokuapp/src/test/java/com/herokuapp/tests/widgits/SliderTest.java

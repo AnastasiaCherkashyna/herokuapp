@@ -1,0 +1,20 @@
+# Игнорировать директорию target
+
+# Игнорировать все артефакты и файлы, связанные с мэйвен, кроме самого wrapper
+!.mvn/wrapper/maven-wrapper.jar
+# Игнорировать target в src/main и src/test
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+
+*.log
+*.png
+
+
+### Mac OS ###
+.DS_Store
